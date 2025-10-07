@@ -21,7 +21,7 @@ curl --proto '=https' --tlsv1.2 -sSf -L https://install.determinate.systems/nix 
 git clone https://github.com/NoamPrag/home-configuration.git ~/.config/home-manager
 ```
 
-2. Install & Run home-manager using Nix itself:
+2. Install & Run `home-manager` using Nix itself:
 ```bash
 nix run home-manager/master -- init --switch
 ```
