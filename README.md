@@ -35,7 +35,7 @@ nix flake update --flake ~/.config/home-manager
 ---
 
 ## 👤 Personal Configuration
-The configuration in `home.nix` and in `flake.nix` specify user properties, which should be edited upon installation:
+The configuration in `home.nix` and in `flake.nix` specify machine and user properties, which should be edited upon installation:
 
 - `flake.nix`:
 ```nix
