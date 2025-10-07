@@ -29,7 +29,6 @@ nix run home-manager/master -- init --switch
 ### 🔄 Optional: updating packages
 Update Nix flake registry via:
 ```bash
-```bash
 nix flake update --flake ~/.config/home-manager
 ```
 
