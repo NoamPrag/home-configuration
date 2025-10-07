@@ -57,4 +57,4 @@ homeConfiguration."<user>" = ...
   };
   homeDirectory = "/Users/${name.user}";
 ```
-* Home directory is in MacOS format - Edit this field to fit the current OS.
+Note that the home directory is in MacOS format - Edit this field to fit the current OS.
